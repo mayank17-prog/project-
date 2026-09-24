@@ -1,0 +1,6 @@
+{
+  "name": "Smart Search – Debounce, AbortController & Cache",
+  "description": "Full-stack React and Node.js search application demonstrating debounce, AbortController cancellation of async race conditions, and in-memory server caching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
